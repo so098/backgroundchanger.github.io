@@ -1,0 +1,12 @@
+section{
+    background-color:#3474FF;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px 0;
+}
+.hexBtn{
+    background-color: rgb(150, 150, 150);
+    border: none;
+    color: #fff;
+    padding: 20px;
+}
